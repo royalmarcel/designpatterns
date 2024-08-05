@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DesignPatterns",
+    "\\DesignPatterns\\StrategyPattern",
+    "\\DesignPatterns\\StrategyPattern\\bin",
+    "\\DesignPatterns\\StrategyPattern\\bin\\Debug",
+    "\\DesignPatterns\\StrategyPattern\\bin\\Debug\\net8.0",
+    "\\DesignPatterns\\StrategyPattern\\obj",
+    "\\DesignPatterns\\StrategyPattern\\obj\\Debug",
+    "\\DesignPatterns\\StrategyPattern\\obj\\Debug\\net8.0"
   ],
+  "SelectedNode": "\\DesignPatterns\\DesignPatterns.sln",
   "PreviewInSolutionExplorer": false
 }
